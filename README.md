@@ -1,2 +1,1 @@
-# neha
-projects
+The purpose of the report is to provide a comprehensive exploration of the field of computer graphics, encompassing its fundamental principles, historical evolution, technological advancements and diverse applications. 
